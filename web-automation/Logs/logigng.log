@@ -1,0 +1,14 @@
+
+2021-09-16 19:32:30 INFO  loop output:10 - for loop output starts here
+2021-09-16 19:32:30 INFO  loop output:15 - the even no 20
+2021-09-16 19:32:30 INFO  loop output:15 - the even no 22
+2021-09-16 19:32:30 INFO  loop output:15 - the even no 24
+2021-09-16 19:32:30 INFO  loop output:15 - the even no 26
+2021-09-16 19:32:30 INFO  loop output:15 - the even no 28
+2021-09-16 19:32:30 INFO  loop output:15 - the even no 30
+2021-09-16 19:32:30 INFO  loop output:15 - the even no 32
+2021-09-16 19:32:30 INFO  loop output:15 - the even no 34
+2021-09-16 19:32:30 INFO  loop output:15 - the even no 36
+2021-09-16 19:32:30 INFO  loop output:15 - the even no 38
+2021-09-16 19:32:30 INFO  loop output:15 - the even no 40
+2021-09-16 19:32:30 INFO  loop output:18 - for loop output ends here
